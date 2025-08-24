@@ -1,42 +1,23 @@
-To run the Outil\_RENAG utility, follow these steps:
+# Outil_RENAG
 
+## Installation and Usage
 
+### English Instructions
 
-1-Download main.exe
+1. **Download** `main.exe`
+2. **Download** the `_internal` folder  
+3. **Place both** in the same working directory
+4. **Run** `main.exe` 
 
+> ⏱️ Wait about 5 seconds for startup (depends on your CPU)
 
+---
 
-2-Download the "\_internal" folder
+### Instructions en Français
 
+1. **Télécharger** `main.exe`
+2. **Télécharger** le dossier `_internal`
+3. **Mettre les deux** dans le même dossier de travail
+4. **Exécuter** `main.exe`
 
-
-3-Place both downloads in the same working directory
-
-
-
-Run main.exe (wait about 5 seconds, depending on your machine’s CPU)
-
-
-
-**\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\***
-
-
-
-Pour exécuter le l'utilitaire Outil\_RENAG suit les étapes suivantes :
-
-
-
-1-Télécharger main.exe
-
- 
-
-2-Télécharger le dossier "\_internal"
-
-
-
-3-Mêttre les deux Téléchargements en même dossier de travail
-
- 
-
-Exécuter main.exe (attendre 5sec dépendamment de CPU de la machine)
-
+> ⏱️ Attendre environ 5 secondes au démarrage (dépend de votre CPU)
